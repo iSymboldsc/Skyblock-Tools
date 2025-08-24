@@ -4,10 +4,10 @@ A collection of small tools (not more than 100 lines usually), I’m developing 
 
 ### 📡 These are mostly made in Python. 📡
 
-## Added Tools
+# Added Tools
 
-### Calculators
-#### Potatoer
+## Calculators
+### Potatonator
 
 Small CLI to make (mostly Ironman) hot potato books easier to calculate.
 
